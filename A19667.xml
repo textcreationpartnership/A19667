@@ -1,0 +1,1626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pleasure and payne, heauen and hell: Remembre these foure, and all shall be well. Compyled by Roberte Crowley, Anno domini, MDLI.</title>
+            <author>Crowley, Robert, 1518?-1588.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1551</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19667</idno>
+            <idno type="STC">STC 6090</idno>
+            <idno type="STC">ESTC S111003</idno>
+            <idno type="EEBO-CITATION">99846438</idno>
+            <idno type="PROQUEST">99846438</idno>
+            <idno type="VID">11405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 213:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pleasure and payne, heauen and hell: Remembre these foure, and all shall be well. Compyled by Roberte Crowley, Anno domini, MDLI.</title>
+                  <author>Crowley, Robert, 1518?-1588.</author>
+               </titleStmt>
+               <extent>[60] p.   </extent>
+               <publicationStmt>
+                  <publisher>By [R. Grafton for] Robert Crowley dwellynge in Elie rentis in Holburne,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno domini .M.D.L.I. [1551]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-C D⁶.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11405:1"/>
+            <pb facs="tcp:11405:1"/>
+            <p>¶ Pleaſure And Payne, Heauen and Hell: Remembre theſe foure, and all ſhall be well.</p>
+            <p>¶ Compyled by Roberte Crow<g ref="char:EOLhyphen"/>ley, Anno Domini, MDLI.</p>
+            <p>
+               <g ref="char:leaf">❧</g> Cum priuilegio ad imprimendum ſolum.</p>
+            <q>¶ O ye that be my fathers bleſſed ones come and poſſes the kyngdome that was prepared for you befor the beginning of the worlde.</q>
+            <q>
+               <p>¶ Goe ye curſſed ſorte into the euerla<g ref="char:EOLhyphen"/>ſtyng fyre that was prepared for the Deuill and his Angelles</p>
+               <p>
+                  <bibl>Math, xxv,</bibl>
+               </p>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:11405:2"/>
+            <pb facs="tcp:11405:2"/>
+            <head>¶ To the ryght worſhypful Lady Dame Elizabeth Fane, wyfe to the ryght worſhypfull Syr Rafe Fane Knyghte: Roberte Crowley Wyſhethe the Lyfe euer<g ref="char:EOLhyphen"/>laſtynge</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I had compiled thys li<g ref="char:EOLhyphen"/>tle treatiſe (ryght vertuouſe Lady) I thought it my duty to Dedicate the ſame vnto youre Ladiſhyppes name, as to a ryght worthy Patrones of al ſuch as laboure in the Lords harueſte. Not for that I thyncke I haue herein done any thyng worthy ſo liberall a Patro<g ref="char:EOLhyphen"/>nes, but for the worthynes of the mat<g ref="char:EOLhyphen"/>ter, whych is a parte of the holy goſpel of Ieſu Chriſt wrytten by the holy Eu<g ref="char:EOLhyphen"/>angelyſte Mathewe, and is moſt nece<g ref="char:EOLhyphen"/>ſſary to be beaten into the heades of all men at thys daye, to dryue them (if it be poſſible) from the gredy rakeying to<g ref="char:EOLhyphen"/>gyther of the Treaſures of this vayne worlde. I do not doubt, but if god haue not geue<g ref="char:cmbAbbrStroke">̄</g> me<g ref="char:cmbAbbrStroke">̄</g> vp to their owne herts luſt they wyll nowe at the laſte endeuoure to lyue the goſpell which they haue of longe tyme talked. In dede it was ne<g ref="char:EOLhyphen"/>ceſſarie
+<pb facs="tcp:11405:3"/> that God ſhould ſtyr vp ſome to plage ſuch emonge his people as had o<g ref="char:EOLhyphen"/>ffended euen as he dyd often tymes ſtyr vp the Heathen to plage hys people of Iſraell but yet it is not neceſſarye that the ſame ſhould continue in oppreſſyng the offendars and Innocent togither. For ſo ſhal they alſo deſerue the lordis Wrath &amp; in the ende be plaged by ſome other that God ſhall ſtyr vp to reuenge the iniurye done to the innocent ſorte Moued therefore wyth the deſyre to ſe the wealth of my contrey by the pacifi<g ref="char:EOLhyphen"/>yng of gods Ire, which (no doubt) wyl fal vpon this realme very ſhortly, if op<g ref="char:EOLhyphen"/>preſſio<g ref="char:cmbAbbrStroke">̄</g> and gredye couetiſe ceaſe not: I haue ſo playnely as I coulde, ſet forth in thys litle boke the terrible Iudgment of god (which no doubt of it is at ha<g ref="char:cmbAbbrStroke">̄</g>de) that if there remayne any feare of god in mens hertis it may cauſe them to ſtaye at the leaſt waye and not to pro<g ref="char:EOLhyphen"/>cede any farder in y<hi rend="sup">e</hi> Inue<g ref="char:cmbAbbrStroke">̄</g>tyng of newe wayes to oppreſſe the pore of thys real<g ref="char:EOLhyphen"/>me whoes oppreſſion doeth alredy crye vnto the lorde for vengeance. The lorde work in the hertis of the rych that this vengeaunce fall not on thys realme in oure dayes, for doubtles it wyl be gret when it cometh. And if the oppreſſ<g ref="char:EOLhyphen"/>ion ceaſe not, the vengeance can not ta<g ref="char:EOLhyphen"/>rye
+<pb facs="tcp:11405:3"/> longe. For the lorde hath promiſed to reuenge his people in haſte. This lord preſerue your good ladiſhip to hys good pleaſure in thys lyfe and geue you blyſſe in the lyfe to come So be it.</p>
+            <closer>
+               <signed>Your Ladyſhips at co<g ref="char:cmbAbbrStroke">̄</g>maun<g ref="char:EOLhyphen"/>dement Robert Crowley.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:11405:4"/>
+            <pb facs="tcp:11405:4"/>
+            <lg>
+               <l>WHe<g ref="char:cmbAbbrStroke">̄</g> Chriſt ſhall come</l>
+               <l>to iudge vs all</l>
+               <l>And geue eche one<note place="margin">Mat. xvi.</note>
+               </l>
+               <l>as he hath wrought</l>
+               <l>Hys fathers frendis</l>
+               <l>then wyll he call</l>
+               <l>To enioye that</l>
+               <l>whych they haue ſought</l>
+               <l>By beleueng</l>
+               <l>that they were bought</l>
+               <l>Wyth his bloude ſhedde</l>
+               <l>vpon a tree</l>
+               <l>As by theyre workis<note place="margin">Mat. vii.</note>
+               </l>
+               <l>all men maye ſee</l>
+            </lg>
+            <lg>
+               <l>Come, come, ſhall he ſaye</l>
+               <l>to theſe men</l>
+               <l>Come and poſſeſſe</l>
+               <l>for euermore<note place="margin">Mat. xxv.</note>
+               </l>
+               <l>That kyngdome whych</l>
+               <l>my father when</l>
+               <l>No worlde was made</l>
+               <l>layed vp in ſtore</l>
+               <l>For you, whome he</l>
+               <l>dyd knowe before</l>
+               <pb facs="tcp:11405:5"/>
+               <l>To be in maners</l>
+               <l>
+                  <note place="margin">Rom. viii</note>lyke to me</l>
+               <l>That am his ſonne</l>
+               <l>and aye haue be</l>
+            </lg>
+            <lg>
+               <l>Come ſhall he ſaye</l>
+               <l>for aye when I</l>
+               <l>Stode nede of meate</l>
+               <l>ye gaue me fode</l>
+               <l>
+                  <note place="margin">Mat. xxv.</note>So dyd you drynke</l>
+               <l>when I was drye</l>
+               <l>Reioyceng when</l>
+               <l>you dyd me good</l>
+               <l>No fende therefore</l>
+               <l>ſhall chaynge your mode</l>
+               <l>For you ſhall</l>
+               <l>alwayes be wyth me</l>
+               <l>And ſhall my fathers</l>
+               <l>
+                  <note place="margin">i. Cor. xiii.</note>godheade ſe</l>
+            </lg>
+            <lg>
+               <l>And at all tymes</l>
+               <l>when I haue bene</l>
+               <l>Of nedefull lodgeynge</l>
+               <l>
+                  <note place="margin">Mat. xxv.</note>deſolate</l>
+               <l>You haue bene gladde</l>
+               <l>to take me in</l>
+               <pb facs="tcp:11405:5"/>
+               <l>Whether it were</l>
+               <l>yarly or late</l>
+               <l>You dyd me neuer</l>
+               <l>chyde nor rate</l>
+               <l>But gaue me wordis</l>
+               <l>curteyſe and kynde</l>
+               <l>Procedynge from</l>
+               <l>a faythfull mynde.</l>
+               <l>¶ So when I was</l>
+               <l>naked and bare</l>
+               <l>Hauynge no clothes</l>
+               <l>my fleſhe to hyde</l>
+               <l>from your owne backs<note place="margin">Mat. xxv.</note>
+               </l>
+               <l>then dyd you ſpare</l>
+               <l>'nd gaue me clothes</l>
+               <l>for backe and ſyde</l>
+               <l>So that I myght</l>
+               <l>the colde abyde.</l>
+               <l>But if you lackt</l>
+               <l>ſufficient</l>
+               <l>Then dyd you my</l>
+               <l>greate lacke lament.</l>
+            </lg>
+            <lg>
+               <l>Infyne, when I</l>
+               <l>was weake and ſycke</l>
+               <pb facs="tcp:11405:6"/>
+               <l>And had no conforte</l>
+               <l>aboute me</l>
+               <l>To come to me</l>
+               <l>you dyd not ſtycke</l>
+               <l>
+                  <note place="margin">Mat. xxv.</note>And ſuccour my</l>
+               <l>neceſſitie</l>
+               <l>And when it chaunced</l>
+               <l>me to be</l>
+               <l>In priſone and</l>
+               <l>could not get oute</l>
+               <l>To raunſome me</l>
+               <l>you went aboute.</l>
+               <l>¶ Then ſhall the iuſte</l>
+               <l>
+                  <note place="margin">Mat. xxv</note>anſwere agayne</l>
+               <l>And ſaye, O lorde,</l>
+               <l>when ſawe we the</l>
+               <l>In priſone or</l>
+               <l>in other payne</l>
+               <l>Through extreme nede</l>
+               <l>and pouertie?</l>
+               <l>Arte not thou lorde</l>
+               <l>of lande and ſee?</l>
+               <l>What? lorde we knowe</l>
+               <l>that ſea and lande</l>
+               <pb facs="tcp:11405:6"/>
+               <l>Haue euermore</l>
+               <l>bene in thyne hande</l>
+               <l>we know that thou</l>
+               <l>gaueſte all thynge<note place="margin">i. Cor. iiii.</note>
+               </l>
+               <l>To all eſtates</l>
+               <l>doeth hygh and lowe</l>
+               <l>There is no myghty</l>
+               <l>lorde nor kynge</l>
+               <l>But he is in</l>
+               <l>thyne hande we knowe.</l>
+               <l>In vayne lorde we</l>
+               <l>might plante and ſowe</l>
+               <l>If thou gaue vs not</l>
+               <l>frute and grayne</l>
+               <l>We coulde haue nought</l>
+               <l>lyfe to ſuſtayne</l>
+            </lg>
+            <lg>
+               <l>Then ſhall Chriſte ſaye,</l>
+               <l>all this is true</l>
+               <l>I gaue you lyfe.</l>
+               <l>and dyd you fede</l>
+               <l>Wyth graynes and fruitis</l>
+               <l>doeth olde and newe</l>
+               <l>And gaue you all thyngis</l>
+               <l>at your nede</l>
+               <pb facs="tcp:11405:7"/>
+               <l>In all your wayes</l>
+               <l>I was your ſpeede</l>
+               <l>And gaue you that</l>
+               <l>wherefore ye ſought</l>
+               <l>wych wythout me</l>
+               <l>
+                  <note place="margin">Iohn. xv.</note>had come to nought.</l>
+               <l>☞Yet all that I</l>
+               <l>haue ſayde before</l>
+               <l>Is true alſo,</l>
+               <l>for when you gaue</l>
+               <l>Ought to ſuch as</l>
+               <l>were ſycke or ſore</l>
+               <l>Whome nede conſtray</l>
+               <l>forto craue</l>
+               <l>Then I confeſſe</l>
+               <l>my ſelfe to haue</l>
+               <l>
+                  <note place="margin">Mat. xxv</note>Receyued all that</l>
+               <l>at your hande</l>
+               <l>Whereof they dyd</l>
+               <l>in greate nede ſtande.</l>
+               <l>¶ Then ſhall the iuſte</l>
+               <l>wyth ioye enter</l>
+               <l>Into the ioyes</l>
+               <l>that ſhall not ende</l>
+               <pb facs="tcp:11405:7"/>
+               <l>Bycauſe theyr hertes</l>
+               <l>were aye tender</l>
+               <l>To geue ſuch thyngis</l>
+               <l>as god dyd ſende</l>
+               <l>Mankynde from peryle</l>
+               <l>to defende.<note place="margin">Mat. v.</note>
+               </l>
+               <l>Thus ſhall they lyue</l>
+               <l>in ioye and blyſſe</l>
+               <l>In paradice</l>
+               <l>where no payne is.</l>
+            </lg>
+            <lg>
+               <l>But to the wycked</l>
+               <l>Chriſt ſhall ſaye.</l>
+               <l>Auoyde frome me</l>
+               <l>ye wycked ſorte</l>
+               <l>For in my nede</l>
+               <l>you ſayde me naye<note place="margin">Mat. xxv.</note>
+               </l>
+               <l>Wyth ſpytefull wordis</l>
+               <l>of diſconforte</l>
+               <l>Yet my preachars</l>
+               <l>dyd you exhorte</l>
+               <l>Me in my membres</l>
+               <l>to refreſhe<note place="margin">i. Corhi. x.</note>
+               </l>
+               <l>knoweynge that all</l>
+               <l>are but one fleſhe.</l>
+               <pb facs="tcp:11405:8"/>
+               <l>☞ Then ſhall theſe men</l>
+               <l>
+                  <note place="margin">Mat. xxv.</note>wyth faynte herie ſaye</l>
+               <l>Lorde when dyd we</l>
+               <l>ſee the in nede?</l>
+               <l>Thou haſte bene lorde</l>
+               <l>and Kynge alwaye</l>
+               <l>No wyght was whome</l>
+               <l>thou dydeſt not fede</l>
+               <l>All this we learned</l>
+               <l>in oure Creede,</l>
+               <l>For thou arte Ieſus,</l>
+               <l>that Gods ſonne</l>
+               <l>That hath create</l>
+               <l>boeth ſonne and mone.</l>
+               <l>☞Oh, ſhall Chriſte ſaye</l>
+               <l>to them agayne,</l>
+               <l>Ye deafe dorepoſtis</l>
+               <l>coulde ye not heare?</l>
+               <l>
+                  <note place="margin">i. Cohr. xii</note>Thynke you the heade</l>
+               <l>bydeth no payne</l>
+               <l>When the members</l>
+               <l>make heauye there?</l>
+               <l>In you, nought but</l>
+               <l>fleſh doeth appere.</l>
+               <pb facs="tcp:11405:8"/>
+               <l>For if my ſpirite</l>
+               <l>in you had ben</l>
+               <l>Me in myne you</l>
+               <l>muſt nedis haue ſene.</l>
+               <l>¶ The pore, the pore,</l>
+               <l>and indigent</l>
+               <l>Came vnto you</l>
+               <l>ofte tymes ye knowe</l>
+               <l>And you ſawe them</l>
+               <l>wepe and lament</l>
+               <l>Yet would ye not</l>
+               <l>on them beſtowe</l>
+               <l>The leaſte frute</l>
+               <l>that to you dyd growe</l>
+               <l>No no, you were</l>
+               <l>redy to take</l>
+               <l>That other gaue them</l>
+               <l>for my ſake.</l>
+               <l>Your hertis were hardee</l>
+               <l>then the flynt</l>
+               <l>In them no pitie<note place="margin">Ezech. 33.</note>
+               </l>
+               <l>coulde be founde</l>
+               <l>Your greedye gutte</l>
+               <l>coulde neuer ſtynt</l>
+               <pb facs="tcp:11405:9"/>
+               <l>Tyll all the good</l>
+               <l>and fruitfull grounde</l>
+               <l>Were hedged in</l>
+               <l>whythin your nownde.</l>
+               <l>You wycked ſorte,</l>
+               <l>howe vſed ye,</l>
+               <l>The londis and goodis</l>
+               <l>ye had of me?</l>
+               <l>☞ You made your boaſte</l>
+               <l>all was your owne</l>
+               <l>To ſpare or ſpende,</l>
+               <l>at your owne wyll</l>
+               <l>And when any</l>
+               <l>pore men were knowne</l>
+               <l>
+                  <note place="margin">Mat. xxi<g ref="char:punc">▪</g>
+                  </note>That were ſo bolde</l>
+               <l>to calle it yll</l>
+               <l>My landis and goodis</l>
+               <l>in waſte to ſpyll</l>
+               <l>You ſhet them vp</l>
+               <l>in priſone ſtrong?</l>
+               <l>Tormentynge them</l>
+               <l>euer emonge.</l>
+               <l>Falſe libertynes</l>
+               <l>you dyd them call</l>
+               <pb facs="tcp:11405:9" rendition="simple:additions"/>
+               <l>Becauſe they tolde</l>
+               <l>you your duitie</l>
+               <l>You ſayde the loſelles</l>
+               <l>woulde haue all</l>
+               <l>That you had goten</l>
+               <l>paynfully</l>
+               <l>And kept longe tyme</l>
+               <l>moſte carefully,</l>
+               <l>But ye belye them</l>
+               <l>I know well</l>
+               <l>And ſlaunder this</l>
+               <l>my true Goſpell</l>
+               <l>☞ Emonge all myne</l>
+               <l>there is not one</l>
+               <l>That would haue ought</l>
+               <l>more then his owne</l>
+               <l>As I ſhall tell you</l>
+               <l>playne anone</l>
+               <l>For to me all<note place="margin">Luke. xvi.</note>
+               </l>
+               <l>theyr hertis be knowne</l>
+               <l>They reaped nought</l>
+               <l>that you had ſowne.</l>
+               <l>But wylled you</l>
+               <l>to let them haue</l>
+               <pb facs="tcp:11405:10"/>
+               <l>That I gaue you</l>
+               <l>mankynde to ſaue</l>
+            </lg>
+            <lg>
+               <l>Not one ſo blynde</l>
+               <l>emonge you all</l>
+               <l>But he knoweth I</l>
+               <l>made all of nought</l>
+               <l>Appoyntynge all thyngis</l>
+               <l>
+                  <note place="margin">Pſal. viii</note>naturall</l>
+               <l>To ſerue mankynde,</l>
+               <l>whome I haue wrought</l>
+               <l>Lyke to my ſelfe</l>
+               <l>
+                  <note place="margin">Genſis. i.</note>in loueyng thought</l>
+               <l>Wyllynge that eche</l>
+               <l>ſhould at his nede,</l>
+               <l>Haue breade and Broth.</l>
+               <l>harbour and wede.</l>
+               <l>
+                  <g ref="char:leaf">❧</g> But ſyth it was</l>
+               <l>expedient</l>
+               <l>That emonge all</l>
+               <l>there ſhould be ſome</l>
+               <l>Alwaye ſycke, ſore</l>
+               <l>and impotent,</l>
+               <l>I indued you</l>
+               <l>wyth ſuch wyſedome</l>
+               <pb facs="tcp:11405:10"/>
+               <l>As dyd honeſt</l>
+               <l>ſtuardis become</l>
+               <l>Cammittyng whole<note place="margin">Mat. 24.</note>
+               </l>
+               <l>into your hande</l>
+               <l>The riches boeth</l>
+               <l>of ſea and lande.</l>
+               <l>☞ My purpoſe was</l>
+               <l>that you ſhould haue</l>
+               <l>Alwaye all nedefull</l>
+               <l>thynges in ſtore</l>
+               <l>To ſuccour ſuch</l>
+               <l>as nedis muſt craue</l>
+               <l>Of you thyngis nedefull</l>
+               <l>euermore</l>
+               <l>I made you rych</l>
+               <l>to fede the pore</l>
+               <l>But you lyke ſeruauntis</l>
+               <l>prodigall</l>
+               <l>Haue in exceſſe<note place="margin">Mat. 24</note>
+               </l>
+               <l>conſumed all</l>
+               <l>☞ But when I found</l>
+               <l>you negligent</l>
+               <l>In fedynge of</l>
+               <l>my family</l>
+               <pb facs="tcp:11405:11"/>
+               <l>Then my prophetes</l>
+               <l>to you I ſent</l>
+               <l>Commaundyng that</l>
+               <l>you ſhould yerely</l>
+               <l>
+                  <note place="margin">Malc. iii</note>Brynge all your tythes</l>
+               <l>diligently</l>
+               <l>Into my barne</l>
+               <l>that there myght be</l>
+               <l>Meate in myne houſe</l>
+               <l>for pouertie.</l>
+            </lg>
+            <lg>
+               <l>But you gaue to</l>
+               <l>theyr wordis no hede</l>
+               <l>You helde all faſte</l>
+               <l>and woulde nought brynge</l>
+               <l>Into my barne</l>
+               <l>the pore to fede</l>
+               <l>But ſpent all at</l>
+               <l>your owne lykynge</l>
+               <l>
+                  <note place="margin">Gene. 32.</note>In wantones</l>
+               <l>and banketynge</l>
+               <l>And in rayment</l>
+               <l>paſt your degree</l>
+               <l>As men that had</l>
+               <l>no mynde of me</l>
+               <pb facs="tcp:11405:11"/>
+               <l>¶ Yea ſome of you</l>
+               <l>were not content</l>
+               <l>To holde faſt that</l>
+               <l>ye ſhould haue brought</l>
+               <l>Into my barne,</l>
+               <l>there to be ſpent</l>
+               <l>But gredyly<note place="margin">Iohn. x,</note>
+               </l>
+               <l>ye begde and bought</l>
+               <l>That my true ſeruantis</l>
+               <l>as they ought</l>
+               <l>Dyd at my true</l>
+               <l>prophetis byddynge</l>
+               <l>Into my barne</l>
+               <l>faythfully brynge</l>
+               <l>¶ And when you had</l>
+               <l>once goten in</l>
+               <l>Into my folde</l>
+               <l>emonge my ſhepe</l>
+               <l>Then you thought it</l>
+               <l>to be no ſynne</l>
+               <l>Styll in your kennells</l>
+               <l>forto ſlepe</l>
+               <l>Settyng ſuch ones</l>
+               <l>my flocke to kepe</l>
+               <pb facs="tcp:11405:12"/>
+               <l>As were more lyke</l>
+               <l>
+                  <note place="margin">Iohn. x.</note>to eate the lambe</l>
+               <l>Then to defende</l>
+               <l>his feble dame</l>
+               <l>
+                  <note place="margin">Ezech. 34.</note>☞ Ye robde, ye ſpoylde,</l>
+               <l>ye bought, ye ſolde</l>
+               <l>My flocke and me,</l>
+               <l>in euery place</l>
+               <l>Ye made my bloude</l>
+               <l>vylar then golde</l>
+               <l>And yet ye thought</l>
+               <l>it no trepaſſe</l>
+               <l>O wycked ſorte</l>
+               <l>voyde of all grace</l>
+               <l>Auoyde from me</l>
+               <l>downe into hell</l>
+               <l>Wyth lucifer</l>
+               <l>there ſhall ye dwell</l>
+            </lg>
+            <lg>
+               <l>Ye had the tythes</l>
+               <l>of mens encreaſe</l>
+               <l>That ſhoulde haue fedde</l>
+               <l>
+                  <note place="margin">Ezech. 34.</note>my flocke and me</l>
+               <l>But you made your</l>
+               <l>ſelfes well at eaſe</l>
+               <pb facs="tcp:11405:12"/>
+               <l>And toke no thought</l>
+               <l>for pouertie</l>
+               <l>It dyd not greue</l>
+               <l>you forto ſe</l>
+               <l>My flocke and me</l>
+               <l>ſuffer greate nede</l>
+               <l>For lacke of meate,</l>
+               <l>harbour and wede.</l>
+               <l>¶ No Hell can be</l>
+               <l>a worthy payne</l>
+               <l>For your offence</l>
+               <l>it is ſo greate</l>
+               <l>For you haue robbed</l>
+               <l>me and ſlayne</l>
+               <l>My flocke for lacke</l>
+               <l>of nedefull meate</l>
+               <l>The woule, the lambe</l>
+               <l>the malt and wheate</l>
+               <l>You dyd by force cary awaye</l>
+               <l>And no man durſt</l>
+               <l>once ſaye you naye,</l>
+               <l>¶ Howe can you loke</l>
+               <l>to haue mercie</l>
+               <l>At myne hande? whome</l>
+               <pb facs="tcp:11405:13"/>
+               <l>ye would not feede</l>
+               <l>Wyth that was myne</l>
+               <l>euen of dutie</l>
+               <l>To ſuccoure me</l>
+               <l>and myne at nede?</l>
+               <l>Syth you myght in</l>
+               <l>the ſcripture rede</l>
+               <l>That ſuche men ſhall</l>
+               <l>no mercie haue</l>
+               <l>
+                  <note place="margin">Iacob. ii.</note>As kepe theyr owne</l>
+               <l>when nede doethe craue</l>
+            </lg>
+            <lg>
+               <l>Vnto the Hungry</l>
+               <l>
+                  <note place="margin">Eſai. viii</note>parte thy breade</l>
+               <l>And when thou ſhalt</l>
+               <l>the naked ſe.</l>
+               <l>Put clothes on him,</l>
+               <l>this myght you reade</l>
+               <l>In my Prophetis</l>
+               <l>that Preached me</l>
+               <l>And in Iohns Piſtle</l>
+               <l>theſe wordis be.</l>
+               <l>Howe can that man</l>
+               <l>haue Charitie</l>
+               <l>That beynge riche</l>
+               <pb facs="tcp:11405:13"/>
+               <l>ſheweth no pitie?</l>
+            </lg>
+            <lg>
+               <l>Alſo,<note place="margin">Prou. xxi.</note> the man</l>
+               <l>that ſtoppeth his eare</l>
+               <l>At the crye of</l>
+               <l>ſuch as be pore</l>
+               <l>Shall crye, and no</l>
+               <l>man ſhall him heare</l>
+               <l>Nor at his nede</l>
+               <l>ſhewe him ſuccoure</l>
+               <l>Ryght ſo,<note place="margin">Prou. xxii</note> he that</l>
+               <l>doeth endeuoure</l>
+               <l>To be made rych</l>
+               <l>by oppreſſynge</l>
+               <l>Shall leaue him ſelfe</l>
+               <l>(at the laſt) no thynge.</l>
+            </lg>
+            <lg>
+               <l>For he ſhall geue</l>
+               <l>the ryche alwaye</l>
+               <l>More then he can</l>
+               <l>ſcrape frome the pore</l>
+               <l>So that in tyme</l>
+               <l>he ſhall decaye</l>
+               <l>And haue no nedefull</l>
+               <l>thynge in ſtore</l>
+               <pb facs="tcp:11405:14"/>
+               <l>This might you reade</l>
+               <l>and ten tymes more</l>
+               <l>In the bible,</l>
+               <l>that holy boke</l>
+               <l>If you had had</l>
+               <l>
+                  <note place="margin">Math. x.</note>tyme forto loke</l>
+            </lg>
+            <lg>
+               <l>But ſuch ſcriptures</l>
+               <l>you coulde not broke</l>
+               <l>As bade you geue</l>
+               <l>ought to the pore</l>
+               <l>You wyſhed then</l>
+               <l>out of the boke</l>
+               <l>But you were ſuer</l>
+               <l>to haue in ſtore</l>
+               <l>Plentie of ſcripturs</l>
+               <l>euermore</l>
+               <l>To proue that you</l>
+               <l>myght aye be bolde</l>
+               <l>Wyth your owne</l>
+               <l>to do what you woulde</l>
+            </lg>
+            <lg>
+               <l>You thought you myght</l>
+               <l>your goodis employ</l>
+               <l>To priuate gayne</l>
+               <l>in euery thynge</l>
+               <pb facs="tcp:11405:14"/>
+               <l>You thought it no faute</l>
+               <l>to anoye</l>
+               <l>Such men as were<note place="margin">Mat. vii.</note>
+               </l>
+               <l>nygh you dwellynge</l>
+               <l>Were it by purchaiſe</l>
+               <l>or byldynge</l>
+               <l>Neither to get</l>
+               <l>into your hande,</l>
+               <l>Your neyghbours houſe</l>
+               <l>his goodis and lande</l>
+            </lg>
+            <lg>
+               <l>All was your owne</l>
+               <l>that you myght bye</l>
+               <l>Or for a long tyme</l>
+               <l>take by leaſe</l>
+               <l>And then woulde you</l>
+               <l>take rent yerely</l>
+               <l>Much more then was</l>
+               <l>the tenantis eaſe<note place="margin">Luke. iii.</note>
+               </l>
+               <l>It was no faute</l>
+               <l>your rentis to reaſe</l>
+               <l>From twentie markis</l>
+               <l>to fourtie powndis</l>
+               <l>Were it in tenementis</l>
+               <l>or growndis</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:11405:15"/>
+               <l>What though the pore</l>
+               <l>dyd lye and dye</l>
+               <l>For lacke of of Harboure</l>
+               <l>in that place</l>
+               <l>Where you had goten</l>
+               <l>wyckedly</l>
+               <l>By leaſe or elſe</l>
+               <l>by playne purchaſe</l>
+               <l>All houſeynge that</l>
+               <l>ſhoulde in that caſe</l>
+               <l>Haue ben a ſlafegard</l>
+               <l>and defence</l>
+               <l>Agaynſt the ſtormy</l>
+               <l>violence?</l>
+            </lg>
+            <lg>
+               <l>Yea what if the pore</l>
+               <l>famyſhed</l>
+               <l>For lacke of fode</l>
+               <l>vpon that grownde</l>
+               <l>The rentes whereof</l>
+               <l>
+                  <note place="margin">Math. x.</note>you haue reyſed</l>
+               <l>Or hedged it</l>
+               <l>wythin your mownde?</l>
+               <l>There myght therwyth</l>
+               <l>no faute be founde,</l>
+               <pb facs="tcp:11405:15"/>
+               <l>No though ye bought vp</l>
+               <l>all the grayne</l>
+               <l>To ſell it at your</l>
+               <l>pryce agayne</l>
+            </lg>
+            <lg>
+               <l>You thought that I</l>
+               <l>woulde not requyre</l>
+               <l>the bloude of all ſuche</l>
+               <l>at your hande,</l>
+               <l>But be you ſure</l>
+               <l>eternall fyre</l>
+               <l>Is redy for</l>
+               <l>eche hell fyre brande,</l>
+               <l>Boeth for the houſynge</l>
+               <l>and the lande</l>
+               <l>That you haue taken<note place="margin">Iacob. ii.</note>
+               </l>
+               <l>from the pore</l>
+               <l>Ye ſhall in Hell</l>
+               <l>dwell euermore,</l>
+            </lg>
+            <lg>
+               <l>Yea that ſame lande</l>
+               <l>that ye dyd take</l>
+               <l>From the plowemen</l>
+               <l>that laboured ſore</l>
+               <l>Cauſeynge them wycked</l>
+               <l>ſhyftis to make.</l>
+               <pb facs="tcp:11405:16"/>
+               <l>Shall nowe ly vpon</l>
+               <l>you full ſore</l>
+               <l>You ſhalbe damned</l>
+               <l>for euermore</l>
+               <l>The bloude of them</l>
+               <l>that dyd amiſſe</l>
+               <l>
+                  <note place="margin">Mat. xviii</note>Through your defaute</l>
+               <l>is cauſe of this</l>
+            </lg>
+            <lg>
+               <l>The fathers whoſe</l>
+               <l>children dyd growe</l>
+               <l>In Idlenes</l>
+               <l>to a full age</l>
+               <l>Woulde fayne be</l>
+               <l>excuſed by you</l>
+               <l>That were the cauſe</l>
+               <l>that they dyd rage</l>
+               <l>You toke from them</l>
+               <l>theyr heritage</l>
+               <l>Leaueyng them nought</l>
+               <l>wheron to worcke</l>
+               <l>Which lacke dyd make</l>
+               <l>them learne to lurke</l>
+            </lg>
+            <lg>
+               <l>The ſones alſo</l>
+               <l>that wycked were</l>
+               <pb facs="tcp:11405:16"/>
+               <l>And wrought after</l>
+               <l>theyr wycked wyll</l>
+               <l>Would nowe ryght fayne</l>
+               <l>be proued cleare</l>
+               <l>Bycauſe your myſſe</l>
+               <l>hath made them Ille</l>
+               <l>But they muſte nedis</l>
+               <l>be gyltie ſtyll</l>
+               <l>Becauſe they woulde</l>
+               <l>worke wyckedly</l>
+               <l>Rather then lyue</l>
+               <l>in miſerie</l>
+            </lg>
+            <lg>
+               <l>And yet ſhall you</l>
+               <l>anſwere for all</l>
+               <l>Theyr bloude I wyl<note place="margin">Ezech. iii</note>
+               </l>
+               <l>of you require</l>
+               <l>Becauſe you were</l>
+               <l>cauſe of theyr falle</l>
+               <l>That are become</l>
+               <l>veſſelles of Ire</l>
+               <l>Boeth they and you</l>
+               <l>ſhall haue your hyre</l>
+               <l>In Hell emonge</l>
+               <l>that wycked ſorte</l>
+               <pb facs="tcp:11405:17"/>
+               <l>That lyue in paynes</l>
+               <l>wythout conforte.</l>
+               <l>☞ Infyne, all ſuch</l>
+               <l>as dyd amyſſe</l>
+               <l>Through your defaut,</l>
+               <l>what ſo they be</l>
+               <l>Shall lyue in payne</l>
+               <l>that endleſſe is</l>
+               <l>Becauſe they would not</l>
+               <l>credite me</l>
+               <l>That am the trueth</l>
+               <l>and verite</l>
+               <l>I tolde them if</l>
+               <l>
+                  <note place="margin">Debru. xii</note>they were oppreſt</l>
+               <l>I woulde ſe all</l>
+               <l>theyr wrongis redreſte</l>
+            </lg>
+            <lg>
+               <l>The wycked ſorte</l>
+               <l>that dyd rebell</l>
+               <l>Agaynſt you when</l>
+               <l>you dyd them wronge</l>
+               <l>Shall haue theyr parte</l>
+               <l>wyth you in Hell</l>
+               <l>Where you ſhall ſynge</l>
+               <l>a dolefull ſonge</l>
+               <pb facs="tcp:11405:17"/>
+               <l>Worlde wythout ende</l>
+               <l>you ſhall be ſtonge</l>
+               <l>Wythe the pricke of</l>
+               <l>the conſcience<note place="margin">Eccleſ. vii</note>
+               </l>
+               <l>A iuſte rewarde</l>
+               <l>for your offence.</l>
+               <l>☞ And you that woulde</l>
+               <l>nedis take in hande</l>
+               <l>To guyde my flocke,</l>
+               <l>as ſhepheardis ſhoulde</l>
+               <l>Onlye to poſſeſſe</l>
+               <l>rent and land</l>
+               <l>And as much richeſſe</l>
+               <l>as you coulde</l>
+               <l>To leade your lyfe</l>
+               <l>euen as you woulde</l>
+               <l>Auoyde from me</l>
+               <l>downe into hell</l>
+               <l>Wyth Simon Magus</l>
+               <l>there to dwell<note place="margin">Actu. viii</note>
+               </l>
+               <l>
+                  <g ref="char:leaf">❧</g> If I ſhould rehearſe</l>
+               <l>all at large</l>
+               <l>That in your wycked</l>
+               <l>lyfe is founde</l>
+               <pb facs="tcp:11405:18"/>
+               <l>And laye it ſtrayght</l>
+               <l>to your charge</l>
+               <l>No wyght there were</l>
+               <l>in this world rownde</l>
+               <l>But woulde wonder</l>
+               <l>
+                  <note place="margin">Geneſ. 7.</note>I had not drownde</l>
+               <l>The hoole earth for</l>
+               <l>your ſynne onlye</l>
+               <l>That woulde be called</l>
+               <l>my cleargie</l>
+            </lg>
+            <lg>
+               <l>Firſte (wyth Magus)</l>
+               <l>ye made your waye</l>
+               <l>Lyke gredy woulles</l>
+               <l>into my folde</l>
+               <l>Your wycked wyll</l>
+               <l>coulde fynde no ſtaye</l>
+               <l>So longe as ought</l>
+               <l>was to be ſolde</l>
+               <l>Either for ſeruice</l>
+               <l>or for golde,</l>
+               <l>By you the patrons</l>
+               <l>fell from me</l>
+               <l>And are become</l>
+               <l>as Ill as ye</l>
+               <pb facs="tcp:11405:18"/>
+               <l>¶ You dyd prouoke</l>
+               <l>them fyrſte to ſell</l>
+               <l>And then they learned</l>
+               <l>forto bye</l>
+               <l>Thynkynge that they</l>
+               <l>myght bye as well</l>
+               <l>As the leadars</l>
+               <l>of the clargie.</l>
+               <l>And then they founde</l>
+               <l>meanes by and by</l>
+               <l>To catch and kepe</l>
+               <l>in theyr owne hande</l>
+               <l>The tenth increaſe</l>
+               <l>by ſea and lande</l>
+               <l>¶ Theyr owne chyldren</l>
+               <l>they dyd preſent</l>
+               <l>Theyr ſeruauntis</l>
+               <l>and theyr wycked kynne</l>
+               <l>And put by ſuch</l>
+               <l>as I had ſent</l>
+               <l>To tell my people</l>
+               <l>of theyr ſynne</l>
+               <l>And youe were gladde<note place="margin">Iohn. x.</note>
+               </l>
+               <l>to take them in</l>
+               <pb facs="tcp:11405:19"/>
+               <l>Bycauſe you knewe</l>
+               <l>that they dyd knowe</l>
+               <l>That youe came in</l>
+               <l>by the wyndowe</l>
+               <l>
+                  <g ref="char:leaf">❧</g> Such as woulde haue</l>
+               <l>entryd by me</l>
+               <l>That am the dore</l>
+               <l>of my ſhepe folde</l>
+               <l>You ſayde were not</l>
+               <l>worthy to be</l>
+               <l>Admitted into</l>
+               <l>my houſeholde</l>
+               <l>You thought by them</l>
+               <l>you ſhould be tolde</l>
+               <l>
+                  <note place="margin">Eſaie. xxx</note>Of your moſte wycked</l>
+               <l>Simonie</l>
+               <l>Your falſehead</l>
+               <l>and your periutie</l>
+               <l>
+                  <note place="margin">Act xxiiii</note>¶ You layde to theyr charge</l>
+               <l>Herecie</l>
+               <l>Siſme and</l>
+               <l>ſedicion alſo</l>
+               <l>But you dyd them</l>
+               <l>falſely belye</l>
+               <pb facs="tcp:11405:19"/>
+               <l>Thynckynge therby</l>
+               <l>to worke them wo</l>
+               <l>And doubtleſſe ofte</l>
+               <l>it chaunced ſo</l>
+               <l>For many of them</l>
+               <l>you haue ſlayne</l>
+               <l>Wyth moſt extreme</l>
+               <l>and bitter payne.</l>
+               <l>¶ Thus by your meanes</l>
+               <l>my people haue</l>
+               <l>Ben deſtitute</l>
+               <l>of ſheperdis good</l>
+               <l>They haue ben ledde</l>
+               <l>by ſuch as draue</l>
+               <l>Them from the fylde</l>
+               <l>of goſtly foode</l>
+               <l>They beate them backe</l>
+               <l>wyth heauye mode</l>
+               <l>And made them fede</l>
+               <l>in moryſh grownde</l>
+               <l>Where neuer ſhepe</l>
+               <l>coulde be fedde ſownde.</l>
+               <l>¶ The kyngis and Rulars</l>
+               <l>of the earthe</l>
+               <pb facs="tcp:11405:20"/>
+               <l>For lacke of knowledge</l>
+               <l>
+                  <note place="margin">Apo, xviii</note>went aſtraye</l>
+               <l>And you ſtopped</l>
+               <l>my ſeruantis breathe</l>
+               <l>That woulde haue taught</l>
+               <l>them the ryght waye</l>
+               <l>You thought your lyueynge</l>
+               <l>
+                  <note place="margin">Iohn, xi</note>woulde decaye</l>
+               <l>If kyngis and Rulars</l>
+               <l>of the lande</l>
+               <l>Should theyr owne duitie</l>
+               <l>vnderſtande,</l>
+               <l>¶ For ſo longe as</l>
+               <l>you kept them blynde</l>
+               <l>Makynge them thyncke</l>
+               <l>they had no charge</l>
+               <l>You had all thyngis</l>
+               <l>at your owne mynde</l>
+               <l>And made your owne</l>
+               <l>powr wondrouſe large</l>
+            </lg>
+            <lg>
+               <l>You had an owre</l>
+               <l>in echmans barge</l>
+               <l>You bade the princis</l>
+               <l>take no care</l>
+               <pb facs="tcp:11405:20"/>
+               <l>For you would all</l>
+               <l>the dayngar beare</l>
+               <l>¶ This haueynge</l>
+               <l>my flocke in your hande</l>
+               <l>You taught them not</l>
+               <l>but kept then blynde</l>
+               <l>So that not one</l>
+               <l>dyd vnderſtande</l>
+               <l>The lawes that I<note place="margin">Pſal. xiiii</note>
+               </l>
+               <l>had lefte behynde</l>
+               <l>The maiſter could not</l>
+               <l>teach his hynde</l>
+               <l>How he ſhould worke</l>
+               <l>in his callynge</l>
+               <l>Fearynge my wrath</l>
+               <l>in euery thynge</l>
+            </lg>
+            <lg>
+               <l>The father coulde not</l>
+               <l>teach his ſonne</l>
+               <l>Howe in his dayes</l>
+               <l>to walke vpryght</l>
+               <l>But gaue him leaue</l>
+               <l>at large to runne</l>
+               <l>In wycked wayes</l>
+               <l>boeth daye and nyght</l>
+               <pb facs="tcp:11405:21"/>
+               <l>Makyng him wycked</l>
+               <l>in my ſyght</l>
+               <l>O wycked guidis</l>
+               <l>this was your dede</l>
+               <l>
+                  <note place="margin">Ezech iii</note>But I ſhall requite</l>
+               <l>you your mede</l>
+               <l>☞ The matrons and</l>
+               <l>mothers alſo</l>
+               <l>Coulde not teach theyr</l>
+               <l>daughters my lawe</l>
+               <l>But wyckedly</l>
+               <l>they let them go</l>
+               <l>Whyther theyre wycked</l>
+               <l>luſte dyd drawe</l>
+               <l>Can you denie</l>
+               <l>but this you ſawe?</l>
+               <l>And whye dyd you</l>
+               <l>not ſet them ryght</l>
+               <l>To ſeke thynges</l>
+               <l>pleaſante in my ſyght?</l>
+               <l>☞ All maner men</l>
+               <l>were oute of frame</l>
+               <l>None knewe his duitie</l>
+               <l>thorowly</l>
+               <pb facs="tcp:11405:21"/>
+               <l>And you are founde</l>
+               <l>in all the blame</l>
+               <l>That haue entred</l>
+               <l>by Simonie<note place="margin">Ier. xxiii</note>
+               </l>
+               <l>Whych thynge you ſhall</l>
+               <l>dearely bye</l>
+               <l>For wyth Satan</l>
+               <l>you ſhall be ſure</l>
+               <l>Worlde without ende</l>
+               <l>ſtyll to endure.</l>
+               <l>☞ For at your handis</l>
+               <l>nowe I requyre</l>
+               <l>The bloude of all</l>
+               <l>that periſhed</l>
+               <l>In placis were</l>
+               <l>you toke the hyre</l>
+               <l>And let my flocke</l>
+               <l>be famiſſhed.</l>
+               <l>For aye ye ſhal</l>
+               <l>be banyſhed</l>
+               <l>The blyſſe that I</l>
+               <l>bought for them all</l>
+               <l>That folowed me</l>
+               <l>when I dyd call.<note place="margin">Iohn. x</note>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:11405:22"/>
+               <l>Auoyde from me</l>
+               <l>downe into Hell</l>
+               <l>All ye that haue</l>
+               <l>wrought wyckedly</l>
+               <l>wyth lucifer</l>
+               <l>there ſhall ye dwell</l>
+               <l>And lyue in paynes</l>
+               <l>eternally</l>
+               <l>Your wycked ſoule</l>
+               <l>ſhall neuer nye</l>
+               <l>
+                  <note place="margin">Mark, ix</note>But lyue in payne</l>
+               <l>for euermore</l>
+               <l>Becauſe ye paſte not</l>
+               <l>for my lore</l>
+            </lg>
+            <lg>
+               <l>Awaye, awaye</l>
+               <l>ye wycked ſorte</l>
+               <l>Awaye I ſaye</l>
+               <l>oute of my ſyght</l>
+               <l>Henſeforth you ſh a</l>
+               <l>haue no conforte</l>
+               <l>But bytter mournynge</l>
+               <l>daye and nyght</l>
+               <l>Extreme darknes</l>
+               <l>wythouten lyghte</l>
+               <pb facs="tcp:11405:22"/>
+               <l>Wepynge, waylynge,</l>
+               <l>wyth ſobbynge ſore<note place="margin">Mat. xxv</note>
+               </l>
+               <l>Gnaſhyng of teeth</l>
+               <l>for euermore,<note place="margin">Luke. xiii.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Your Conſcience ſhall</l>
+               <l>not be quiete</l>
+               <l>But ſhall ſtyll burne</l>
+               <l>lyke flameynge fyre</l>
+               <l>No burnyng brymſton</l>
+               <l>hath ſuch heate</l>
+               <l>As you ſhall haue</l>
+               <l>for youre iuſte hyre</l>
+               <l>The hote vengeaunce</l>
+               <l>of my greate Ire</l>
+               <l>Shall be ſtyll boylynge</l>
+               <l>in your breaſte</l>
+               <l>So that you ſhall</l>
+               <l>neuer take reſte</l>
+            </lg>
+            <lg>
+               <l>Then ſhall the wycked</l>
+               <l>fall in haſte</l>
+               <l>Downe into the</l>
+               <l>pyt bottomeleſſe<note place="margin">Mat. xiii.</note>
+               </l>
+               <l>Moſte bytter paynes</l>
+               <l>there ſhall they taſte</l>
+               <pb facs="tcp:11405:23"/>
+               <l>And lyue euer</l>
+               <l>in greate diſtreſſe</l>
+               <l>None ſhall confort</l>
+               <l>theyr heauineſſe</l>
+               <l>In deadly paynes</l>
+               <l>there ſhall they lye</l>
+               <l>And then they would</l>
+               <l>
+                  <note place="margin">Apocal. ix</note>but ſhall not dye,</l>
+               <l>¶ Such as were here</l>
+               <l>ſo loth to dye</l>
+               <l>That they thought</l>
+               <l>no pliſicke to dere</l>
+               <l>Shall there lyue</l>
+               <l>in ſuch miſerie</l>
+               <l>That only death</l>
+               <l>myght their hertis there</l>
+               <l>They ſhall alwayes</l>
+               <l>deſyre to here</l>
+               <l>That they myght dye</l>
+               <l>for euermore</l>
+               <l>Theyr paynes ſhalbe</l>
+               <l>ſo paſſynge ſore,</l>
+            </lg>
+            <lg>
+               <l>Then ſhall Chriſte</l>
+               <l>wyth his choſen ſorte</l>
+               <pb facs="tcp:11405:23"/>
+               <l>Triumphauntely</l>
+               <l>returne agayne</l>
+               <l>To hys father</l>
+               <l>geueyng conforte</l>
+               <l>To ſuch as for hys ſake<note place="margin">Apoc, xxii</note>
+               </l>
+               <l>were ſlayne,</l>
+               <l>No wyght ſhall there</l>
+               <l>fele any payne</l>
+               <l>But all ſhall lyue</l>
+               <l>in ſuch blyſſe there,</l>
+               <l>As neuer tonge</l>
+               <l>coulde yet declare.</l>
+            </lg>
+            <lg>
+               <l>That we maye then</l>
+               <l>lyue in that place</l>
+               <l>Wyth Chriſte oure kynge</l>
+               <l>that hath vs bought</l>
+               <l>Let vs crie vnto God</l>
+               <l>for grace</l>
+               <l>To repent that</l>
+               <l>we haue myſſe wrought</l>
+               <l>And where we haue</l>
+               <l>wyckedly ſought</l>
+               <l>To be made rych<note place="margin">Luke. xix.</note>
+               </l>
+               <l>by wycked gayne,</l>
+               <pb facs="tcp:11405:24"/>
+               <l>Let vs reſtore</l>
+               <l>all thynges agayne.</l>
+            </lg>
+            <lg>
+               <l>Let the pore man</l>
+               <l>haue and enioye</l>
+               <l>The houſe he had</l>
+               <l>by Copyeholde,</l>
+               <l>For hym, his wyfe,</l>
+               <l>and Iacke hys boye,</l>
+               <l>To kepe them from</l>
+               <l>hunger and colde,</l>
+               <l>And thoughe the leaſe</l>
+               <l>therof be ſolde</l>
+               <l>Bye it agayne</l>
+               <l>though it be dere,</l>
+               <l>For nowe we go</l>
+               <l>
+                  <note place="margin">Phil. iiii.</note>on oure laſte yere.</l>
+            </lg>
+            <lg>
+               <l>Caſte downe the hedges</l>
+               <l>and ſtronge mowndes,</l>
+               <l>That you haue cauſed</l>
+               <l>to be made,</l>
+               <l>Aboute the waſte</l>
+               <l>and tyllage growndes</l>
+               <l>Makeynge them wepe</l>
+               <l>that erſte were glad.</l>
+               <pb facs="tcp:11405:24"/>
+               <l>Leſte you your ſelfes</l>
+               <l>be ſtryken ſadde</l>
+               <l>When you ſhall ſe</l>
+               <l>that Chriſte doeth drye</l>
+               <l>All teares from the<note place="margin">Apoc, xxi.</note>
+               </l>
+               <l>oppreſſedis eye.</l>
+            </lg>
+            <lg>
+               <l>Reſtore the fynes</l>
+               <l>and eke the rent,</l>
+               <l>That ye haue tane</l>
+               <l>more then your due</l>
+               <l>Elſe certenly</l>
+               <l>you ſhall be ſhent,</l>
+               <l>When Chriſte ſhall</l>
+               <l>your Euidence vieu,</l>
+               <l>For then you ſhall</l>
+               <l>fynde theſe wordes trew,</l>
+               <l>You are but ſtuardes</l>
+               <l>of the lande,</l>
+               <l>That he betoke<note place="margin">Luke. xix,</note>
+               </l>
+               <l>into your handes</l>
+            </lg>
+            <lg>
+               <l>And you that haue</l>
+               <l>taken by leaſe</l>
+               <l>Greate ſtore of growndis</l>
+               <l>or of houſeyng,</l>
+               <pb facs="tcp:11405:25"/>
+               <l>Your lyueyng thereby</l>
+               <l>to encreaſe,</l>
+               <l>And to maynetayne you</l>
+               <l>loyeterynge:</l>
+               <l>
+                  <note place="margin">ii. The. iii</note>Fall nowe to worcke</l>
+               <l>for your lyueynge</l>
+               <l>And let the lordes</l>
+               <l>deale wyth theyr growndis</l>
+               <l>In Territories,</l>
+               <l>Fieldes, and Townes.</l>
+            </lg>
+            <lg>
+               <l>You do but heape</l>
+               <l>on you gods Ire</l>
+               <l>Whych doubtles you</l>
+               <l>ſhall fele ſhortely</l>
+               <l>In that you do</l>
+               <l>ſo muche deſyre</l>
+               <l>The leaſe of eche mans</l>
+               <l>houſe to bye.</l>
+               <l>
+                  <note place="margin">Eſaie. v.</note>You ſtudy no mans</l>
+               <l>wealth pardye,</l>
+               <l>But all men ſe</l>
+               <l>you do aduaunce</l>
+               <l>Your ſelfe by pore mens</l>
+               <l>hynderaunce,</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:11405:25"/>
+               <l>What though your liueingly theron?</l>
+               <l>Shoulde you not geue</l>
+               <l>them vp therfore?</l>
+               <l>It is Abhomination,</l>
+               <l>And doubtles God</l>
+               <l>wyll plage it ſore,</l>
+               <l>Repent, I ſaye,</l>
+               <l>and ſynne no more,</l>
+               <l>For nowe the daye</l>
+               <l>is euen at hande</l>
+               <l>When you ſhall at</l>
+               <l>your tryall ſtande.</l>
+            </lg>
+            <lg>
+               <l>Let not the wealthy</l>
+               <l>lyueynge here</l>
+               <l>(Which can but</l>
+               <l>a ſhorte tyme endure)</l>
+               <l>Be vnto you</l>
+               <l>a thynge ſo dere</l>
+               <l>That you wyll loſe</l>
+               <l>endleſſe pleaſure</l>
+               <l>Rather then leaue</l>
+               <l>the vayne treaſure</l>
+               <pb facs="tcp:11405:26"/>
+               <l>O rather let</l>
+               <l>your leaſes go</l>
+               <l>Then they ſhoulde worke you</l>
+               <l>endeleſſe woe.</l>
+            </lg>
+            <lg>
+               <l>Rehore the tythes</l>
+               <l>vnto the pore</l>
+               <l>For blynde and lame</l>
+               <l>ſhoulde lyue theron</l>
+               <l>The wydowe that</l>
+               <l>hath no ſuccoure</l>
+               <l>And the chylde that</l>
+               <l>is lefte alone,</l>
+               <l>For if theſe folke</l>
+               <l>do make theyr mone</l>
+               <l>To God, he wyll</l>
+               <l>ſure heare theyr crye</l>
+               <l>And reuenge theyr wronge</l>
+               <l>by and by.</l>
+            </lg>
+            <lg>
+               <l>Reſtore your tythes</l>
+               <l>I ſaye once more</l>
+               <l>That trwe preachars</l>
+               <l>may lyue theron</l>
+               <l>And haue all nedefull</l>
+               <l>thynges in ſtore</l>
+               <pb facs="tcp:11405:26"/>
+               <l>To geue to ſuch as</l>
+               <l>can get none</l>
+               <l>Leſte theyr greate</l>
+               <l>lamentation</l>
+               <l>Do ſtyr the Lorde</l>
+               <l>vengeaunce to take</l>
+               <l>Euen for hys trueth</l>
+               <l>and promes ſake.</l>
+            </lg>
+            <lg>
+               <l>Geue ouer your</l>
+               <l>pluralities</l>
+               <l>Ye men of God</l>
+               <l>if you be ſo</l>
+               <l>Betake you to</l>
+               <l>one benifice,</l>
+               <l>And let your lordelyke</l>
+               <l>lyueuynges go,</l>
+               <l>For holy wryte</l>
+               <l>teacheth you ſo</l>
+               <l>Learne at the laſte</l>
+               <l>to be content</l>
+               <l>Wyth thynges that be</l>
+               <l>ſufficient.</l>
+            </lg>
+            <lg>
+               <l>If you be mete</l>
+               <l>to do ſeruice</l>
+               <pb facs="tcp:11405:27"/>
+               <l>To any prince</l>
+               <l>or noble man</l>
+               <l>Than medle wyth</l>
+               <l>no benifice</l>
+               <l>For certenly</l>
+               <l>no one man can</l>
+               <l>Do the duitie</l>
+               <l>of moe men than</l>
+               <l>Of one: which duitie</l>
+               <l>you do owe</l>
+               <l>To them that geue</l>
+               <l>you wage, you knowe</l>
+               <l>☞ Robbe not the people</l>
+               <l>that do paye</l>
+               <l>The tenth of theyr</l>
+               <l>increaſe yerely</l>
+               <l>To haue a learned</l>
+               <l>guyde alwaye</l>
+               <l>Preſent wyth them</l>
+               <l>to edifie</l>
+               <l>Them by teachyng</l>
+               <l>the veritie</l>
+               <l>
+                  <note place="margin">Malac, iii</note>Boeth in his worde</l>
+               <l>and eke his dede</l>
+               <pb facs="tcp:11405:27"/>
+               <l>And to ſuccoure</l>
+               <l>ſuch as haue nede</l>
+               <l>☞ And you that haue</l>
+               <l>tane vſurie</l>
+               <l>Of ſuch as nede</l>
+               <l>draue to borowe</l>
+               <l>Make reſtitution</l>
+               <l>ſhortly</l>
+               <l>leſte it turne you</l>
+               <l>to great ſorowe</l>
+               <l>When no man can<note place="margin">Pſal xv.</note>
+               </l>
+               <l>be your borowe</l>
+               <l>Wich ſhalbe at</l>
+               <l>the daye of dome<note place="margin">Phil. iiii.</note>
+               </l>
+               <l>Which doubtleſſe is</l>
+               <l>not longe to come</l>
+               <l>☞ And you that</l>
+               <l>by diſceyte haue wome</l>
+               <l>Were it in weyght</l>
+               <l>or in meaſure</l>
+               <l>Be ſorye that</l>
+               <l>ye haue ſo donne</l>
+               <l>And ſeke to ſtoppe</l>
+               <l>goddis diſpleaſure</l>
+               <pb facs="tcp:11405:28"/>
+               <l>By beſtowynge</l>
+               <l>
+                  <note place="margin">Luke. iii.</note>this worldis treaſure</l>
+               <l>To the confort,</l>
+               <l>helpe and ſuccoure</l>
+               <l>Of ſuch as be</l>
+               <l>nedie and pore</l>
+               <l>¶ And you that erſte</l>
+               <l>haue bene oppreſte</l>
+               <l>And could not beare</l>
+               <l>it paciently</l>
+               <l>For you I thynke</l>
+               <l>it ſhalbe beſte</l>
+               <l>To repent you</l>
+               <l>muſt hertily</l>
+               <l>And call to god</l>
+               <l>for his mercie</l>
+               <l>To geue you grace</l>
+               <l>forto ſuſtayne</l>
+               <l>That croſſe when it</l>
+               <l>
+                  <note place="margin">Marc. 14</note>ſhall come agayne.</l>
+            </lg>
+            <lg>
+               <l>To make an ende</l>
+               <l>let vs repent</l>
+               <l>All that euer</l>
+               <l>we haue myſſe wrought</l>
+               <pb facs="tcp:11405:28"/>
+               <l>And praye to god</l>
+               <l>omnipotent</l>
+               <l>To take from vs</l>
+               <l>all wycked thought</l>
+               <l>That his glory</l>
+               <l>maye be ſtyll ſought</l>
+               <l>By vs that be</l>
+               <l>his creatures</l>
+               <l>So longe as lyfe</l>
+               <l>in vs endures</l>
+            </lg>
+            <lg>
+               <l>And that henceforth</l>
+               <l>eche man maye ſeke</l>
+               <l>In all thyngis</l>
+               <l>to profite all men</l>
+               <l>And be in herte</l>
+               <l>lowly and meke</l>
+               <l>As men that be</l>
+               <l>in dede Chriſten</l>
+               <l>As well in herte</l>
+               <l>as name and then</l>
+               <l>We ſhall haue blyſſe</l>
+               <l>wythouten ende</l>
+               <l>Vnto the which</l>
+               <l>the lorde vs ſende</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:11405:29"/>
+            <pb facs="tcp:11405:29"/>
+            <head>
+               <g ref="char:leaf">❧</g> The boke to the Chriſtian Readars</head>
+            <lg>
+               <l>MY brother (the tru<g ref="char:cmbAbbrStroke">̄</g>pet)</l>
+               <l>dyd warne you before</l>
+               <l>That al me<g ref="char:cmbAbbrStroke">̄</g> ſhuld walk</l>
+               <l>in their callynge vpryght</l>
+               <l>Directyng their wayes</l>
+               <l>by gooddis holy lore</l>
+               <l>knowyng that thei be always</l>
+               <l>in the lordis ſyght</l>
+               <l>Whoe ſeeth in the darcke</l>
+               <l>as well as in lyght.</l>
+               <l>He hath cryed vnto you</l>
+               <l>all this laſt yere</l>
+               <l>And yet non emendment</l>
+               <l>doeth in you appeare.</l>
+               <l>☞ In dede, very many</l>
+               <l>do him entertayne</l>
+               <l>Lyke as there were none</l>
+               <l>more welcome then he</l>
+               <l>Yet I thyncke they do</l>
+               <l>his warnynge dyſdayne</l>
+               <l>Becauſe he doeth tell them</l>
+               <pb facs="tcp:11405:30"/>
+               <l>what is theyr duetie</l>
+               <l>For he is very playne</l>
+               <l>wyth euery degre</l>
+               <l>The rych and the myghtie</l>
+               <l>he doeth nothyng feare</l>
+               <l>No more doeth he wyth</l>
+               <l>the pore mans falte beare</l>
+               <l>☞ It pleaſed my father</l>
+               <l>to ſende him before</l>
+               <l>That he myght make redy</l>
+               <l>and prepare his waye</l>
+               <l>By cauſeynge all men</l>
+               <l>to walke in his lore</l>
+               <l>That haue in tymes paſſed</l>
+               <l>wandred aſtraye</l>
+               <l>Leſte payne be theyr portion</l>
+               <l>at the laſte daye</l>
+               <l>And nowe hath he ſent me</l>
+               <l>that they maye ſe</l>
+               <l>As it were in a glaſſe</l>
+               <l>what theyr rewarde ſhalbe</l>
+            </lg>
+            <lg>
+               <l>I am the rewarde</l>
+               <l>that al men ſhall haue</l>
+               <l>For the iuſte ſhall haue pleſure</l>
+               <l>and the wicked panye</l>
+               <pb facs="tcp:11405:30"/>
+               <l>When euery ma<g ref="char:cmbAbbrStroke">̄</g> ſhal aryſe</l>
+               <l>oure of his graue</l>
+               <l>And haue the ſpryte knyt</l>
+               <l>to the body agayne</l>
+               <l>In heauen or in hell</l>
+               <l>they ſhall ſtyll remayne</l>
+               <l>Or blyſſe or of payne</l>
+               <l>they ſhall haue theyr fyll</l>
+               <l>The good ſorte In heauen</l>
+               <l>and in hell the Ill</l>
+            </lg>
+            <lg>
+               <l>Beholde me therfore</l>
+               <l>wyth a goſtly eie</l>
+               <l>And let me not from</l>
+               <l>your preſence departe</l>
+               <l>For no doubt you wyll</l>
+               <l>all wyckednes defye</l>
+               <l>So longe as I ſhall</l>
+               <l>remayne in your herte</l>
+               <l>I ſha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l cauſe you from</l>
+               <l>wyckednes to conuert</l>
+               <l>So that in the ende</l>
+               <l>you ſhal be ryght ſure</l>
+               <l>To lyue wyth my father</l>
+               <l>in ioye and pleaſure.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:11405:31"/>
+            <p>¶ Imprin<g ref="char:EOLhyphen"/>ted at london by Robert Crowley dwellynge in Elie rentis in Holburne Anno Domini .M.D.L.I.</p>
+            <pb facs="tcp:11405:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
